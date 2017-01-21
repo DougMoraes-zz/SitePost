@@ -52,6 +52,12 @@ a:active{
 	height: 150px;
 }
 
+.rodape{
+	float: right;
+	padding: 35px;
+	color: #D3D3D3;
+}
+
 /*ids*/
 #cabecalho {
 	background: #fff;
